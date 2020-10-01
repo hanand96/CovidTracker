@@ -21,6 +21,6 @@ Click [here](https://github.com/AIEnthusias-t/CovidTracker) then download the .z
 ```
 > npm install
 > npm start
-```
+```lamba is noob
 
 
